@@ -13,7 +13,7 @@
 #     mysql_native_password by 'my-secret-password';  
 #     2 is also important for phpmyadmin login 
 # 3) For any aupdate and suggestion in script pleases email to 
-#    abhiramdas99@gmail.com 
+#    sharfuddinmd@gmail.com 
 ###############################################################
 
 
