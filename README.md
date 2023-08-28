@@ -19,13 +19,13 @@ Depoyment of simple php application through jenkins pipeline without adding any 
      
       
 2) As developer create  a simple php file and push git master branch
-   Follow - https://github.com/abhiramdas99/jenkins-pipeline-php-01/blob/main/index.php
+   Follow - https://github.com/sharfuddin1986/jenkins-Pipleline/blob/main/index.php
    
 3) As deveop engineer create jenkins file anfd push to git master branch
    Follow - https://github.com/sharfuddin1986/Jenkins-Pipeline/blob/main/jenkinsfile
    
 4) Webhook setup in git
-   - https://github.com/sharfuddin1986/jenkins-pipeline-php-01/settings/hooks
+   - https://github.com/sharfuddin1986/Jenkins-Pipeline-php-01/settings/hooks
    - create new
    - payload url : http://35.154.142.22:8080/github-webhook/
    - content type : default
@@ -38,7 +38,7 @@ Depoyment of simple php application through jenkins pipeline without adding any 
    - dont change any default thing ,
    - pipeline defination : pipeline script from scm
    - scm : git
-   - repo url : https://github.com/abhiramdas99/jenkins-pipeline-php-01
+   - repo url : https://github.com/sharfuddin1986/Jenkins-Pipeline
    - branch specifier : main
    - script path : Jenkinsfile
    - 
