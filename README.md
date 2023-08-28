@@ -19,7 +19,7 @@ Depoyment of simple php application through jenkins pipeline without adding any 
      
       
 2) As developer create  a simple php file and push git master branch
-   Follow - https://github.com/sharfuddin1986/jenkins-Pipleline/blob/main/index.php
+   Follow - https://github.com/sharfuddin1986/Jenkins-Pipleline/blob/main/index.php
    
 3) As deveop engineer create jenkins file anfd push to git master branch
    Follow - https://github.com/sharfuddin1986/Jenkins-Pipeline/blob/main/jenkinsfile
