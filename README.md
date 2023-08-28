@@ -5,7 +5,7 @@ Depoyment of simple php application through jenkins pipeline without adding any 
 
 # Prequisite 
 1) jenkinks server. Follow - https://github.com/sharfuddin1986/Jenkins-Pipeline/blob/main/Jenkins_server%20_installation_notes
-2) xampp webserver. follow - https://github.com/sharfuddin1986/frequent-use-shell-scripts/Jenkins-Pipeline/blob/main/ubuntu_lamp_installation.sh
+2) xampp webserver. follow - https://github.com/sharfuddin1986/Jenkins-Pipeline/blob/main/ubuntu_lamp_installation.sh
 
 # Steps 
 1) Actually bydefault through jenkin user, jenkins try to run any shellscript in remote machine. For that you need to set the ssh connectivity in jenkins user profile.
