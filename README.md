@@ -4,7 +4,7 @@ Depoyment of simple php application through jenkins pipeline without adding any 
 ![image](https://github.com/abhiramdas99/jenkins-pipeline-php-01/assets/62290469/d54e3a41-0427-4cf1-b0ff-7e7b92193610)
 
 # Prequisite 
-1) jenkinks server. Follow - https://github.com/abhiramdas99/jenkins-notes
+1) jenkinks server. Follow - https://github.com/sharfuddin1986/jenkins-Pipeline/jenkins_server_installation_notes
 2) xampp webserver. follow - https://github.com/abhiramdas99/frequent-use-shell-scripts/blob/main/ubuntu_lamp_installation.sh
 
 # Steps 
