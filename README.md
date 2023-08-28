@@ -22,7 +22,7 @@ Depoyment of simple php application through jenkins pipeline without adding any 
    Follow - https://github.com/abhiramdas99/jenkins-pipeline-php-01/blob/main/index.php
    
 3) As deveop engineer create jenkins file anfd push to git master branch
-   Follow - https://github.com/sharfuddin1986/jenkins-Pipeline/blob/main/Jenkinsfile
+   Follow - https://github.com/sharfuddin1986/Jenkins-Pipeline/blob/main/jenkinsfile
    
 4) Webhook setup in git
    - https://github.com/sharfuddin1986/jenkins-pipeline-php-01/settings/hooks
