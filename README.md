@@ -1,7 +1,7 @@
 # jenkins-pipeline-php-01
 Depoyment of simple php application through jenkins pipeline without adding any node to jenkinserver, just only shellsript
 
-![image](https://github.com/abhiramdas99/jenkins-pipeline-php-01/assets/62290469/d54e3a41-0427-4cf1-b0ff-7e7b92193610)
+![image](https://github.com/sharfuddin1986/Jenkins-Pipeline/blob/ed4951be0a5995711cb3b7decd794353c21a6e4f/Jenkins_server%20_installation_notes)
 
 # Prequisite 
 1) jenkinks server. Follow - https://github.com/sharfuddin1986/jenkins-Pipeline/main/jenkins_server_installation_notes
