@@ -1,0 +1,15 @@
+in jenkins server, add new node. suppose lamp server
+	Dashboard > manage jenkins > node and cloud > create new node 
+		nade name  : ubuntu_lamp_server
+		type : paramenent agent then create 
+		description : webserver 
+		number of executors : 5 
+		remote root directory : /jenkins_job
+		label: ubuntu_lamp_server
+		usage : Only build job with label expression matching this node
+		lunch method : lunch agents via ssh
+		host : past the public ip of node here (13.233.216.242)
+		credentials : ubuntu(ubuntu_lamp_server) 
+                             https://raw.githubusercontent.com/sharfuddin1986/jenkins-pipeline/main/manage-credential  
+		host key verification strategy : Manually trusted key varifiacation strategy
+		save 
