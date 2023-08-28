@@ -1,0 +1,24 @@
+ -0,0 +1,22 @@
+1) prepare jenkins server 
+
+	1) update machine : sudo apt update -y 
+	2) install java : sudo apt install openjdk-11-jre
+	3) check java versiion :  java -version
+	4) run command : 
+	curl -fsSL https://pkg.jenkins.io/debian/jenkins.io-2023.key | sudo tee \
+  /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+
+	5) run command : 
+	echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
+  https://pkg.jenkins.io/debian binary/ | sudo tee \
+  /etc/apt/sources.list.d/jenkins.list > /dev/null
+
+	6) again update the machine : sudo apt-get update
+	7) install jenkin sudo apt-get install jenkins
+	8) sudo systemctl enable jenkins
+	9) sudo systemctl enable jenkins
+	10) sudo systemctl status jenkins
+	11) allow port 8080 in security group
+	12) unlock jenkin, copy the secret and paste 
+	13) install sugessted plugin 
+	14) create admin password
