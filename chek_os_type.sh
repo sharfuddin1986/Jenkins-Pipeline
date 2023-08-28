@@ -3,7 +3,7 @@
 # This script retrive os name, then conditionally 
 # we can perform OS specific task 
 #----------------------------------------------
-# Author : abhiram 
+# Author : sharfuddin
 # Date   : 09/06/2023
 #################################################
 
