@@ -27,7 +27,7 @@ Depoyment of simple php application through jenkins pipeline without adding any 
 4) Webhook setup in git
    - https://github.com/sharfuddin1986/Jenkins-Pipeline-php-01/settings/hooks
    - create new
-   - payload url : http://35.154.142.22:8080/github-webhook/
+   - payload url : http://35.154.142.22/github-webhook/
    - content type : default
    - Which events would you like to trigger this webhook? :  Send everything
      
