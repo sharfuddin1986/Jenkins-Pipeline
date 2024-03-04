@@ -9,8 +9,8 @@ Depoyment of simple php application through jenkins pipeline without adding any 
 
 # Steps 
 1) Actually bydefault through jenkin user, jenkins try to run any shellscript in remote machine. For that you need to set the ssh connectivity in jenkins user profile.
-   - 1st  you login from jenkins user , the command is -  sudo su jenkins
-   - 2nd  generate ssh key - ssh-keygen. Then the public and private key will be geneate in below location - /var/lib/jenkins/.ssh
+    1st  you login from jenkins user , the command is -  sudo su jenkins
+    2nd  generate ssh key - ssh-keygen. Then the public and private key will be geneate in below location - /var/lib/jenkins/.ssh
    - Then copy the content of public key file  i.e id_rsa.pub
    - Then goto to your node server i.e xampp-webserver. and execute the following command :
      sudo su
